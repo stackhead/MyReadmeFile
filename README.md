@@ -23,7 +23,7 @@
 <a href="https://twitter.com/valoffcial28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="valoffcial28" height="30" width="40" /></a>
 <a href="https://fb.com/abu bakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu bakar" height="30" width="40" /></a>
 <a href="https://instagram.com/doulikeraze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="doulikeraze" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/abu bakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abu bakar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/valorantplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abu bakar" height="30" width="40" /></a>
 <a href="https://discord.gg/valorantplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="valorantplays" height="30" width="40" /></a>
 </p>
 
