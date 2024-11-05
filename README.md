@@ -1,21 +1,21 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Abu Bakar</h1>
-<h3 align="center">A Passionate front End developer from pakistan</h3>
+<h1 align="center">Hey There I'm Abu Bakar</h1>
+<h3 align="center">A Passionate front End developer and QA from pakistan</h3>
   <img  align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stackoverflow69&label=Profile%20views&color=0e75b6&style=flat" alt="stackoverflow69" /> </p>
 
 <p align="left"> <a href="https://twitter.com/valoffcial28" target="blank"><img src="https://img.shields.io/twitter/follow/valoffcial28?logo=twitter&style=for-the-badge" alt="valoffcial28" /></a> </p>
 
-- 🔭 I’m currently working on **Battle of Mosnsters**
+- 🔭 I’m currently working on **mutiple projects**
 
-- 🌱 I’m currently learning **HTML,CSS**
+- 🌱 I’m currently learning **Javascript,react,next,QA,sveltekit,expo-**
 
-- 💬 Ask me about **Websites Designs**
+- 💬 Ask me about **Websites Designs development and Quality Assurance**
 
 - 📫 How to reach me **abubakaresta@gmail.com**
 
-- ⚡ Fun fact **I Am Mature**
+- ⚡ Fun fact **An introvert **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
